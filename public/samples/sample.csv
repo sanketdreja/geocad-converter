@@ -1,0 +1,4 @@
+name,longitude,latitude,type,note
+Central Library,77.2090,28.6139,point,"Quoted note, with comma"
+Survey Point A,77.2190,28.6165,point,field check
+Survey Point B,77.2012,28.6088,point,field check

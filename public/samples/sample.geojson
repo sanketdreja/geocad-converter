@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Library",
+        "layer": "sample_points"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.209, 28.6139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Survey Path",
+        "layer": "sample_lines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.2012, 28.6088],
+          [77.209, 28.6139],
+          [77.219, 28.6165]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sample Parcel",
+        "layer": "sample_polygons"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.205, 28.611],
+            [77.214, 28.611],
+            [77.214, 28.618],
+            [77.205, 28.618],
+            [77.205, 28.611]
+          ]
+        ]
+      }
+    }
+  ]
+}

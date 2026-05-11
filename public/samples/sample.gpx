@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GeoCAD Converter sample">
+  <wpt lat="28.6139" lon="77.2090">
+    <name>Central Library</name>
+  </wpt>
+  <trk>
+    <name>Survey Path</name>
+    <trkseg>
+      <trkpt lat="28.6088" lon="77.2012" />
+      <trkpt lat="28.6139" lon="77.2090" />
+      <trkpt lat="28.6165" lon="77.2190" />
+    </trkseg>
+  </trk>
+</gpx>
